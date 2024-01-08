@@ -1,3 +1,5 @@
+--- 
+
 ### 어서오세요
 ### 최근에는 뮤피를 작업중입니다
 
@@ -13,6 +15,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=round-square&logo=Gmail&logoColor=white&link=mailto:officialmupie@gmail.com)](officialmupie@gmail.com)
 [![Kakao Badge](https://img.shields.io/badge/kakaochat-FFCD00?style=round-square&logo=kakaotalk&logoColor=white)](http://pf.kakao.com/_yxnGxfG/chat)
 
+--- 
 
 <!--
 **shs395/shs395** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
